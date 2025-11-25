@@ -9,9 +9,15 @@ Not all sites behave the same. Some, like LimeTorrents, include features that ma
  ![Image Alt](https://github.com/GaneshKishore01/CSAMdetector-Iptracker/blob/main/Screenshot%20(245).png)
 Features
 Metadata scanning with Jakket API
+ ![Image Alt](https://github.com/GaneshKishore01/CSAMdetector-Iptracker/blob/main/Screenshot%20(243).png)
 Keyword flagging from predefined lists
+ ![Image Alt](https://github.com/GaneshKishore01/CSAMdetector-Iptracker/blob/main/Screenshot%20(242).png)
+  ![Image Alt](https://github.com/GaneshKishore01/CSAMdetector-Iptracker/blob/main/Screenshot%20(241).png)
 NSFW detection on images/videos (frame slicing for video)
+ ![Image Alt](https://github.com/GaneshKishore01/CSAMdetector-Iptracker/blob/main/Screenshot%20(240).png)
 IP tracing using IPWhois API
+  ![Image Alt](https://github.com/GaneshKishore01/CSAMdetector-Iptracker/blob/main/Screenshot%20(248).png)
+
 Proxy/VPN detection
 Ethical Safeguards
 Tested only on legal NSFW datasets
